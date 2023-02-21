@@ -1,14 +1,7 @@
 # my-first-pullrequest
 
-Hexlet is Awesome!
+«Если человек не нашёл, за что может умереть, он не способен жить» - (с) Мартин Лютер Кинг
 
-... hey you, out there in the cold
-Getting lonely, getting old
-Can you feel me?
+This is a part of new history! (с) Ivan Dok
 
-«Если человек не нашёл, за что может умереть, он не способен жить». Мартин Лютер Кинг
-
-This is a part of history already
-«Чем умнее человек, тем легче он признает себя дураком»
-
-Кто обзывается, тот сам и называется (с)Стетхем
+«Чем умнее человек, тем легче он признает себя дураком» - (c) Альберт Эйнштейн 
